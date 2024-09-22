@@ -5,8 +5,8 @@ content: |
 pictures:
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/01.jpg"
-    thumb: "images/gallery/thumbs/01.jpg"
+    image: "images/4.webp"
+    thumb: "images/4.webp"
     button: "Details"
 
   - title: "Title"
