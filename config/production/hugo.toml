@@ -2,22 +2,22 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Box Obi"
 copyright = "{year}"
 
 ## -----------------------------------------------
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
+relativeURLs = "false"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+#baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+baseURL = "https://sa-grup.github.io/boxobi.com/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
