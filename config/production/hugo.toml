@@ -17,7 +17,7 @@ relativeURLs = "false"
 publishDir = "public"
 
 # Remote
-baseURL = "https://sa-grup.github.io/boxobi.com/"
+baseURL = "https://boxobi.com/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 ## -----------------------------------------------
