@@ -1,0 +1,74 @@
+/* Custom typography overrides to increase font size */
+
+html {
+    font-size: 20pt !important;
+}
+
+@media screen and (max-width: 1680px) {
+    html {
+        font-size: 16pt !important;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    html {
+        font-size: 14pt !important;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    html {
+        font-size: 13pt !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    html {
+        font-size: 12pt !important;
+    }
+}
+
+/* Increase paragraph font size slightly */
+p {
+    font-size: 1.1rem !important;
+}
+
+/* Increase major paragraph font size */
+p.major {
+    font-size: 1.35rem !important;
+}
+
+/* Increase button font size */
+.button {
+    font-size: 1.1rem !important;
+}
+
+/* Increase link font size */
+a {
+    font-size: 1.05rem !important;
+}
+
+/* Increase navigation and action link font size */
+.actions a,
+.actions .button {
+    font-size: 1.15rem !important;
+}
+
+@media screen and (max-width: 736px) {
+    p.major {
+        font-size: 1.2rem !important;
+    }
+    
+    .button {
+        font-size: 1.05rem !important;
+    }
+    
+    a {
+        font-size: 1rem !important;
+    }
+    
+    .actions a,
+    .actions .button {
+        font-size: 1.1rem !important;
+    }
+}
