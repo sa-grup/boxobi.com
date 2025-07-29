@@ -34,3 +34,8 @@ disableKinds = ["taxonomy", "section"]
 [Params]
 
 [Params.social]
+instagram = "https://instagram.com/boxobi.id"
+tiktok = "https://tiktok.com/@boxobi.id"
+email = "info@boxobi.com"
+whatsapp = "https://wa.me/6282114917627"
+phone = "tel:+6282114917627"

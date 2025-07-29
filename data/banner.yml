@@ -4,9 +4,9 @@ title : "Box Obi"
 subtitle: |
   Mindful parents, happy kids!!
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  Selamat datang di <strong>Box Obi</strong>, toko spesialis buku kain edukatif untuk bayi. Kami menghadirkan koleksi buku kain berkualitas tinggi yang aman, lembut, dan dirancang khusus untuk mendukung tumbuh kembang buah hati Anda. Dengan bahan premium dan desain menarik, setiap produk kami dipilih dengan cermat untuk memberikan pengalaman belajar yang menyenangkan sejak dini.
 button:
-  label : "Get Started"
+  label : "Jelajahi Koleksi Kami"
   link : "#first"
 image : "images/3.webp"
 

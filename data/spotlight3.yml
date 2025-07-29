@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "first"
-title : "Spotlight"
+id: "third"
+title : "Keuntungan Pesan Langsung"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Dapatkan <strong>keuntungan eksklusif</strong> dengan memesan langsung melalui website kami! Nikmati harga spesial, gratis ongkir untuk wilayah Jakarta, dan bonus menarik untuk setiap pembelian. Kami juga menyediakan konsultasi gratis untuk membantu Anda memilih buku kain yang tepat sesuai usia dan tahap perkembangan bayi Anda. Customer service kami siap membantu dengan respon cepat dan pelayanan terbaik.
 button: 
-  label: "Learn More"
+  label: "Pesan Sekarang"
   link: "#"
 image: "images/spotlight03.jpg"

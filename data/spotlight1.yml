@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Buku Kain Edukatif untuk Bayi"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  <strong>Buku kain</strong> adalah media pembelajaran sempurna untuk bayi Anda. Dengan tekstur lembut dan aman untuk digigit, buku-buku kami dirancang khusus untuk merangsang perkembangan sensorik, motorik, dan kognitif si kecil. Setiap halaman menghadirkan warna-warna cerah, berbagai tekstur menarik, dan aktivitas interaktif yang akan membuat bayi Anda betah bermain sambil belajar. Cocok untuk bayi usia 0-24 bulan.
 button: 
-  label: "Learn More"
-  link: "#"
+  label: "Lihat Koleksi"
+  link: "#gallery"
 image: "images/spotlight01.jpg"

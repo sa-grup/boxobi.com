@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Spotlight"
+title : "Belanja Mudah di Mana Saja"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Box Obi hadir di <strong>Jakarta</strong> dan siap melayani seluruh Indonesia! Temukan produk kami di <strong>TikTok Shop</strong> dan <strong>Shopee</strong> dengan berbagai promo menarik. Kunjungi toko kami @boxobi.id di TikTok dan Instagram untuk melihat review produk, tips parenting, dan konten edukatif seputar tumbuh kembang bayi. Dapatkan pengalaman belanja yang mudah, aman, dan terpercaya bersama Box Obi.
 button: 
-  label: "Learn More"
+  label: "Kunjungi Toko Online"
   link: "#"
 image: "images/spotlight02.jpg"

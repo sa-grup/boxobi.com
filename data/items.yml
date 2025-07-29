@@ -1,65 +1,35 @@
-title : "Items"
+title : "Mengapa Memilih Box Obi?"
 content: |
-  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+  Kami memahami betul kebutuhan <strong>tumbuh kembang</strong> si kecil. Setiap produk Box Obi dipilih dengan standar kualitas tinggi dan telah teruji keamanannya. Berikut keunggulan yang membuat Box Obi menjadi pilihan terbaik untuk buah hati Anda.
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "One"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "Bahan Premium"
+    content : "Menggunakan bahan kain berkualitas tinggi yang lembut, tahan lama, dan aman untuk bayi. Semua produk telah lulus uji keamanan internasional."
     style : "style2 major fa-gem"
 
   # feature item loop
-  - name : "Two"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "Mudah Dicuci"
+    content : "Dapat dicuci dengan mesin cuci dan tahan lama. Warna tidak mudah pudar dan bentuk tetap terjaga setelah berkali-kali dicuci."
     style : "solid style2 major fa-save"
     
   # feature item loop
-  - name : "Three"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "Edukatif"
+    content : "Setiap buku dirancang untuk merangsang perkembangan kognitif, motorik halus, dan kemampuan sensorik bayi sesuai tahapan usianya."
     style : "solid style2 major fa-chart-bar"
     
   # feature item loop
-  - name : "Four"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-wifi"
+  - name : "Gratis Ongkir"
+    content : "Nikmati gratis ongkos kirim untuk area Jakarta dan sekitarnya. Untuk luar kota, kami berikan diskon ongkir yang menarik."
+    style : "solid style2 major fa-truck"
     
   # feature item loop
-  - name : "Five"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-cog"
+  - name : "Konsultasi Gratis"
+    content : "Tim ahli kami siap membantu Anda memilih produk yang tepat sesuai usia dan kebutuhan perkembangan si kecil."
+    style : "solid style2 major fa-comments"
     
   # feature item loop
-  - name : "Six"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-paper-plane"
-    
-  # feature item loop
-  - name : "Seven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-desktop"
-    
-  # feature item loop
-  - name : "Eight"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-sync-alt"
-    
-  # feature item loop
-  - name : "Nine"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-hashtag"
-    
-  # feature item loop
-  - name : "Ten"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-bolt"
-    
-  # feature item loop
-  - name : "Eleven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-envelope"
-    
-  # feature item loop
-  - name : "Twelve"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-leaf"
+  - name : "Garansi Kualitas"
+    content : "Kami memberikan garansi penggantian jika ada cacat produksi atau ketidakpuasan dalam 7 hari pertama pembelian."
+    style : "style2 major fa-shield-alt"
     
