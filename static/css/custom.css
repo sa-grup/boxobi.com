@@ -54,6 +54,15 @@ a {
     font-size: 1.15rem !important;
 }
 
+/* Fix image cropping for spotlight section #third */
+section#third.spotlight.style1 .image img {
+    position: static !important;  /* Turn off position: absolute */
+    object-fit: contain !important;
+    background-color: #f4f4f4 !important;
+    height: auto !important;
+    width: 100% !important;
+}
+
 @media screen and (max-width: 736px) {
     p.major {
         font-size: 1.2rem !important;
