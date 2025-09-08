@@ -54,6 +54,25 @@ a {
     font-size: 1.15rem !important;
 }
 
+/* Fix image cropping for banner with higher specificity */
+section.banner.style1.orient-left .image {
+    position: relative !important;
+    overflow: visible !important;
+    height: auto !important;
+}
+
+section.banner.style1.orient-left .image img {
+    position: static !important;  /* Turn off position: absolute */
+    object-fit: contain !important;
+    background-color: #f4f4f4 !important;
+    height: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    max-height: none !important;
+    top: auto !important;
+    left: auto !important;
+}
+
 /* Fix image cropping for spotlight section #third */
 section#third.spotlight.style1 .image img {
     position: static !important;  /* Turn off position: absolute */
@@ -80,4 +99,17 @@ section#third.spotlight.style1 .image img {
     .actions .button {
         font-size: 1.1rem !important;
     }
+}
+
+/* Align banner content text to the left */
+.banner.style1 .content {
+    text-align: left !important;
+}
+
+.banner.style1 .content p {
+    text-align: left !important;
+}
+
+.banner.style1 .content h1 {
+    text-align: left !important;
 }

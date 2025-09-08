@@ -1,10 +1,20 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Buku Kain Edukatif untuk Bayi"
+title : "High Contrast Sensory Book"
 content: |
-  <strong>Buku kain</strong> adalah media pembelajaran sempurna untuk bayi Anda. Dengan tekstur lembut dan aman untuk digigit, buku-buku kami dirancang khusus untuk merangsang perkembangan sensorik, motorik, dan kognitif si kecil. Setiap halaman menghadirkan warna-warna cerah, berbagai tekstur menarik, dan aktivitas interaktif yang akan membuat bayi Anda betah bermain sambil belajar. Cocok untuk bayi usia 0-24 bulan.
+  •  Gambar hitam putih dengan aksen merah memiliki pola kompleksitas yang berbeda<br>
+  •  Mengeluarkan Crinkly sound saat dipegang anak<br>
+  •  Memperkuat daya penglihatan dan pendengaran anak<br>
+  •  Memperkuat motorik halus anak<br><br>
+  
+  •  Bonus Flash Card dan Pouch.<br>
+  •  Tersedia Varian: Bentuk, Buah-buahan, Perasaanku, Binatang, dan Angka.<br>
+  •  Untuk Hadiah Sudah Termasuk Kartu Ucapan.<br><br>
+  
+  • Product Dimension (Saat Dilipat in cm) : P 13.5 X L 13.5 X T 7.5<br>
+  • Product Dimension (Saat Dipanjangkan in cm) : P 13.5 X L 67 X T 7.5
 button: 
   label: "Lihat Koleksi"
   link: "#gallery"
-image: "images/spotlight01.jpg"
+image: "images/Clown Drop.png"
