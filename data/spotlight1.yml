@@ -16,5 +16,5 @@ content: |
   • Product Dimension (Saat Dipanjangkan in cm) : P 13.5 X L 67 X T 7.5
 button: 
   label: "Lihat Koleksi"
-  link: "#gallery"
-image: "images/Clown Drop.png"
+  link: "#high_contrast_gallery"
+image: "images/high-contrast-sensory-book/1.png"

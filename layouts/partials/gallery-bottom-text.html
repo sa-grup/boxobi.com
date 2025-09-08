@@ -1,0 +1,14 @@
+<!-- Gallery with text at bottom -->
+<section class="wrapper style1 align-center" {{ with .id }} id="{{ . }}"{{ end }}>
+    <!-- Gallery -->
+    <div class="gallery {{ .style }}">
+        {{ range .pictures }}
+            {{ partial "picture" . }}
+        {{ end }}
+    </div>
+    
+    <div class="inner" style="text-align: left;">
+        <h2 style="text-align: center;">{{ .title }}</h2>
+        <p>{{ .content | safeHTML }}</p>
+    </div>
+</section>
