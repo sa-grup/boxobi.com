@@ -6,30 +6,30 @@ items:
   # feature item loop
   - name : "Bahan Premium"
     content : "Menggunakan bahan kain berkualitas tinggi yang lembut, tahan lama, dan aman untuk bayi. Semua produk telah lulus uji keamanan internasional."
-    style : "style2 major fa-gem"
+    style : "style2 major fa-heart"
 
   # feature item loop
   - name : "Mudah Dicuci"
     content : "Dapat dicuci dengan mesin cuci dan tahan lama. Warna tidak mudah pudar dan bentuk tetap terjaga setelah berkali-kali dicuci."
-    style : "solid style2 major fa-save"
+    style : "solid style2 major fa-tint"
     
   # feature item loop
   - name : "Edukatif"
     content : "Setiap buku dirancang untuk merangsang perkembangan kognitif, motorik halus, dan kemampuan sensorik bayi sesuai tahapan usianya."
-    style : "solid style2 major fa-chart-bar"
+    style : "solid style2 major fa-graduation-cap"
     
   # feature item loop
   - name : "Gratis Ongkir"
     content : "Nikmati gratis ongkos kirim untuk area Jakarta dan sekitarnya. Untuk luar kota, kami berikan diskon ongkir yang menarik."
-    style : "solid style2 major fa-truck"
+    style : "solid style2 major fa-gift"
     
   # feature item loop
   - name : "Konsultasi Gratis"
     content : "Tim ahli kami siap membantu Anda memilih produk yang tepat sesuai usia dan kebutuhan perkembangan si kecil."
-    style : "solid style2 major fa-comments"
+    style : "solid style2 major fa-handshake"
     
   # feature item loop
   - name : "Garansi Kualitas"
     content : "Kami memberikan garansi penggantian jika ada cacat produksi atau ketidakpuasan dalam 7 hari pertama pembelian."
-    style : "style2 major fa-shield-alt"
+    style : "style2 major fa-star"
     

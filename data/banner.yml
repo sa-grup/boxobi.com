@@ -3,9 +3,9 @@ style: "style1 orient-left content-align-left image-position-right fullscreen on
 title : "Box Obi"
 subtitle: |
 content : |
-  Selamat datang di <strong>Box Obi</strong>, toko spesialis buku kain edukatif untuk bayi. Kami menghadirkan koleksi buku kain berkualitas tinggi yang aman, lembut, dan dirancang khusus untuk mendukung tumbuh kembang buah hati Anda. Dengan bahan premium dan desain menarik, setiap produk kami dipilih dengan cermat untuk memberikan pengalaman belajar yang menyenangkan sejak dini.
+  <strong>Box Obi</strong>, brand mainan edukasi untuk dukung tumbuh kembang anak sejak lahir. Selain bermanfaat untuk anak, juga orang tua bisa fokus pada proses membangun hubungan yang hangat.
 button:
-  label : "Jelajahi Koleksi Kami"
-  link : "#first"
+  label : "Koleksi Kami"
+  link : "#high_contrast_gallery"
 image : "images/Banner-Website-Rasio-Instagram-Post.png"
 

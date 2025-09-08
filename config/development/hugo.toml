@@ -37,12 +37,10 @@ disableKinds = ["taxonomy", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
-  telegram = "https://telegram.org"
+  instagram = "https://instagram.com/boxobi.id"
+  tiktok = "https://tiktok.com/@boxobi.id"
+  email = "halo@boxobi.com"
+  whatsapp = "https://wa.me/+6282114917627"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]

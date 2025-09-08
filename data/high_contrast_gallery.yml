@@ -1,6 +1,6 @@
 title: "High Contrast Sensory Book"
 id: "high_contrast_gallery"
-style: "style2 medium lightbox onscroll-fade-in"
+style: "style2 big lightbox onscroll-fade-in"
 content: |
   •  Gambar hitam putih dengan aksen merah memiliki pola kompleksitas yang berbeda<br>
   •  Mengeluarkan Crinkly sound saat dipegang anak<br>
@@ -14,20 +14,20 @@ content: |
   • Product Dimension (Saat Dilipat in cm) : P 13.5 X L 13.5 X T 7.5<br>
   • Product Dimension (Saat Dipanjangkan in cm) : P 13.5 X L 67 X T 7.5
 pictures:
-  - title: "Pola Dasar"
-    content: "Gambar hitam putih dengan aksen merah untuk merangsang penglihatan bayi"
+  - title: ""
+    content: ""
     image: "images/high-contrast-sensory-book/1.png"
     thumb: "images/high-contrast-sensory-book/1.png"
-    button: "Lihat Detail"
+    button: ""
 
-  - title: "Pola Geometris"
-    content: "Desain bentuk dengan kontras tinggi untuk stimulasi visual optimal"
+  - title: ""
+    content: ""
     image: "images/high-contrast-sensory-book/2.png"
     thumb: "images/high-contrast-sensory-book/2.png"
-    button: "Lihat Detail"
+    button: ""
 
-  - title: "Pola Kompleks"
-    content: "Kombinasi bentuk dan pola untuk perkembangan motorik visual"
+  - title: ""
+    content: ""
     image: "images/high-contrast-sensory-book/3.png"
     thumb: "images/high-contrast-sensory-book/3.png"
-    button: "Lihat Detail"
+    button: ""
